@@ -1,0 +1,24 @@
+{
+    "EEGCoordinateSystem": "CapTrak",
+    "EEGCoordinateUnits": "m",
+    "EEGCoordinateSystemDescription": "The X-axis goes from the left preauricular point (LPA) through the right preauricular point (RPA). The Y-axis goes orthogonally to the X-axis through the nasion (NAS). The Z-axis goes orthogonally to the XY-plane through the vertex of the head. This corresponds to a \"RAS\" orientation with the origin of the coordinate system approximately between the ears. See Appendix VIII in the BIDS specification.",
+    "AnatomicalLandmarkCoordinates": {
+        "NAS": [
+            -5.097683847178567e-18,
+            0.09553283295924134,
+            -1.5407439555097887e-33
+        ],
+        "LPA": [
+            -0.0803796934433121,
+            4.289104093479097e-18,
+            -1.5407439555097887e-33
+        ],
+        "RPA": [
+            0.07531335092048154,
+            -4.018761305110984e-18,
+            -4.622231866529366e-33
+        ]
+    },
+    "AnatomicalLandmarkCoordinateSystem": "CapTrak",
+    "AnatomicalLandmarkCoordinateUnits": "m"
+}
