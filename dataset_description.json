@@ -3,6 +3,10 @@
     "BIDSVersion": "1.6.0",
     "DatasetType": "raw",
     "Authors": [
-        "John Veillette", "Pedro Lopes", "Howard Nusbaum"
-    ]
+        "John Veillette",
+        "Pedro Lopes",
+        "Howard Nusbaum"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004561.v1.0.0",
+    "License": "CC0"
 }
