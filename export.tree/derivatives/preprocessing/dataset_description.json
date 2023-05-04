@@ -1,7 +1,0 @@
-{
-    "Name": "preprocessing",
-    "PipelineDescription": {
-        "Name": "preprocessing"
-    },
-    "BIDSVersion": "1.6.0"
-}
